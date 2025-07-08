@@ -5,13 +5,11 @@
 
 ## 1\. 環境設定
 
-まず、pigeoniumライブラリとAPI通信用の`requests`ライブラリをインストールします。
-
 ```
-pip install pigeonium requests
+pip install pigeonium requests && \
+git clone https://github.com/pigeonium/python-client.git --recursive && \
+cd python-client
 ```
-
-次に、`pigeonium_client.py`をプロジェクトフォルダに配置してください。
 
 
 ## 2\. クライアントの初期化
