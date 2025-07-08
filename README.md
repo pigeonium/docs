@@ -1,10 +1,12 @@
 # Pigeonium Documentation
 
-Pigeoniumへようこそ！このリポジトリは、Pigeoniumブロックチェーンプラットフォームの公式ドキュメントです。
+Pigeoniumへようこそ！このリポジトリは、Pigeoniumブロックチェーンプラットフォームのドキュメントです。
 
 Pigeoniumは、独自の資産「Pigeon」を基軸通貨とする、シンプルで拡張性の高いブロックチェーンプラットフォームです。ユーザーはウォレットの作成、残高の確認、トランザクションの送受信、そしてPythonベースのスマートコントラクトの展開と実行が可能です。
 
 このドキュメントは、開発者がPigeoniumの機能を理解し、活用するための一助となることを目的としています。
+
+また、Pigeoniumを簡単に扱えるようにするライブラリ([`pigeonium_client.py`](https://github.com/pigeonium/python-client))も用意しています。チュートリアルで活用してください。
 
 ## 目次
 
