@@ -6,7 +6,7 @@
 ## 1\. 環境設定
 
 ```
-pip install pigeonium requests
+pip install requests
 
 git clone https://github.com/pigeonium/python-client.git --recursive
 
