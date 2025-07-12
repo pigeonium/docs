@@ -95,7 +95,7 @@ try:
     )
     print("トランザクション成功！")
     print(f"Index ID: {tx_receipt.indexId}")
-    print(f"Webエクスプローラーで確認: {API_URL.replace('14540', '8080')}/transaction.html?id={tx_receipt.indexId}")
+    print(f"Webエクスプローラーで確認: {API_URL.replace('14540', '14543')}/transaction.html?id={tx_receipt.indexId}")
 except Exception as e:
     print(f"トランザクション失敗: {e}")
 
